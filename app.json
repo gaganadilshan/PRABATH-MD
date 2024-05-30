@@ -7,12 +7,12 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "94772476404",
+      "description": "94729493354",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "PRABATH-MD~Q7MXHIRC#R1L-fDuPzIMU9Fr-ZOUTTSJ8DNduCtbdkNz8OTIxIcI",
+      "description": "",
       "required": true
     },  
 
@@ -22,7 +22,7 @@
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "",
       "required": true
     }   
 },
